@@ -1,4 +1,4 @@
-<!-- RINSHARI-UI:START -->
+<!-- RINSHARI-EYE:START -->
 ## Design preflight completed
 - [ ] Yes
 
@@ -31,5 +31,5 @@
 
 ## Engineering baseline rationale
 - 
-<!-- RINSHARI-UI:END -->
+<!-- RINSHARI-EYE:END -->
 

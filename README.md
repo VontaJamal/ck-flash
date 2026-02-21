@@ -1,29 +1,35 @@
-# Create T3 App
+# Shadow Dominion 🃏
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+**Learn anything. Remember everything. On your terms.**
 
-## What's next? How do I make an app with this?
+Shadow Dominion is a flashcard system built around one idea: you should control exactly what you study and how you study it.
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## What It Does
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+- **Create flashcards** and organize them into chapters, sections, or any category you define
+- **Granular study sessions** — study Chapter 1 only, Chapters 1 and 3, or everything at once
+- **Filter and sort** your cards however you need before a session starts
+- **Spaced repetition** powered by Anki-style scheduling (SM-2 algorithm) — the cards you struggle with come back sooner
+- **Make It Stick principles** baked into the review engine:
+  - **Retrieval practice** — active recall over passive re-reading
+  - **Interleaving** — mix topics to strengthen connections
+  - **Spaced practice** — time between sessions is the feature, not the bug
+  - **Elaboration** — prompts that make you explain *why*, not just *what*
+  - **Generation** — attempt answers before seeing them
+- **Hide cards** you've mastered — they stay in the system but leave your active rotation
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+## The Vision
 
-## Learn More
+Most flashcard apps make you do all the thinking about *how* to study. Shadow Dominion handles the science — you just make the cards and pick what to review. The system does the rest.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+## The Stack
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+TypeScript · React · Next.js · Prisma · tRPC · Tailwind CSS · NextAuth.js
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+## Status
 
-## How do I deploy this?
+Early development. Foundation scaffolded, core architecture in place.
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+---
+
+*"Anything I don't know, I learn when I need it."*
